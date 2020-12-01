@@ -1,0 +1,9 @@
+# Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^user(/.*)?$ /much-todo/controllers/user.php?request=$1 [R=302,NC]
+RewriteRule ^task(/.*)?$ /much-todo/controllers/task.php?request=$1 [R=307,NC]
+RewriteRule ^general(/.*)?$ /much-todo/controllers/general.php?request=$1 [R=302,NC]
+# ErrorDocument 404 http://localhost/much-todo/views/error.php?e_c=unknown
+RewriteRule (^|/)p_includes(/|$) - [F]
+RewriteRule (^|/)models(/|$) - [F]
+RewriteRule (^|/)view(/|$) - [F]

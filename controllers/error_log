@@ -1,0 +1,105 @@
+[22-Apr-2020 22:38:28 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 21:38:28 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'analeerose_mtd_user'@'localhost' to database 'analeerose_mtd' in /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php:34
+Stack trace:
+#0 /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php(34): PDO->__construct('mysql:host=loca...', 'analeerose_mtd_...', 'muchtodo19')
+#1 /home/analeerose/public_html/much-todo/models/general_m.php(30): mysql->mysql_connect()
+#2 /home/analeerose/public_html/much-todo/models/user_m.php(21): generalObject->__construct()
+#3 /home/analeerose/public_html/much-todo/controllers/user.php(21): user->__construct(NULL)
+#4 /home/analeerose/public_html/much-todo/controllers/user.php(155): userController->__construct()
+#5 {main}
+  thrown in /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php on line 34
+[22-Apr-2020 22:40:22 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 21:40:22 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'analeerose_mtd_user'@'localhost' to database 'analeerose_mtd' in /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php:34
+Stack trace:
+#0 /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php(34): PDO->__construct('mysql:host=loca...', 'analeerose_mtd_...', 'muchtodo19')
+#1 /home/analeerose/public_html/much-todo/models/general_m.php(30): mysql->mysql_connect()
+#2 /home/analeerose/public_html/much-todo/models/user_m.php(21): generalObject->__construct()
+#3 /home/analeerose/public_html/much-todo/controllers/user.php(21): user->__construct(NULL)
+#4 /home/analeerose/public_html/much-todo/controllers/user.php(164): userController->__construct()
+#5 {main}
+  thrown in /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php on line 34
+[22-Apr-2020 22:42:48 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 21:42:48 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'analeerose_mtd_user'@'localhost' to database 'analeerose_mtd' in /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php:34
+Stack trace:
+#0 /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php(34): PDO->__construct('mysql:host=loca...', 'analeerose_mtd_...', 'muchtodo19')
+#1 /home/analeerose/public_html/much-todo/models/general_m.php(30): mysql->mysql_connect()
+#2 /home/analeerose/public_html/much-todo/models/user_m.php(21): generalObject->__construct()
+#3 /home/analeerose/public_html/much-todo/controllers/user.php(21): user->__construct(NULL)
+#4 /home/analeerose/public_html/much-todo/controllers/user.php(164): userController->__construct()
+#5 {main}
+  thrown in /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php on line 34
+[22-Apr-2020 22:44:33 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 21:44:33 America/Chicago] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'analeerose_mtd_user'@'localhost' to database 'analeerose_mtd' in /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php:34
+Stack trace:
+#0 /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php(34): PDO->__construct('mysql:host=loca...', 'analeerose_mtd_...', 'muchtodo19')
+#1 /home/analeerose/public_html/much-todo/models/general_m.php(32): mysql->mysql_connect()
+#2 /home/analeerose/public_html/much-todo/models/user_m.php(21): generalObject->__construct()
+#3 /home/analeerose/public_html/much-todo/controllers/user.php(21): user->__construct(NULL)
+#4 /home/analeerose/public_html/much-todo/controllers/user.php(164): userController->__construct()
+#5 {main}
+  thrown in /home/analeerose/public_html/much-todo/p_includes/mysql.inc.php on line 34
+[22-Apr-2020 22:46:47 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 21:46:47 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/analeerose/public_html/much-todo/controllers/user.php on line 183
+[22-Apr-2020 22:47:07 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:47:25 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:47:27 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:47:28 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:47:46 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:47:47 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:48:25 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:48:28 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:48:51 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:48:55 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:02 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:04 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:06 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:07 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:08 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:11 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:12 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:13 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:23 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:24 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:53 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:49:54 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 22:52:30 America/New_York] PHP Notice:  Undefined variable: online in /home/analeerose/public_html/much-todo/p_includes/config.inc.php on line 27
+[22-Apr-2020 23:38:30 America/Chicago] PHP Warning:  require(./../views/delete_view_n.php): failed to open stream: No such file or directory in /home/analeerose/public_html/much-todo/controllers/user.php on line 152
+[22-Apr-2020 23:38:30 America/Chicago] PHP Fatal error:  require(): Failed opening required './../views/delete_view_n.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/analeerose/public_html/much-todo/controllers/user.php on line 152
+[24-Apr-2020 14:49:25 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[24-Apr-2020 14:50:28 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[24-Apr-2020 14:50:38 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[24-Apr-2020 15:14:05 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[24-Apr-2020 15:21:14 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[24-Apr-2020 15:34:46 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[27-Apr-2020 09:10:58 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[27-Apr-2020 09:41:04 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[27-Apr-2020 10:16:27 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[27-Apr-2020 12:25:33 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[27-Apr-2020 12:30:52 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[27-Apr-2020 12:30:52 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[27-Apr-2020 12:37:02 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[27-Apr-2020 12:40:48 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-8, 8' at line 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 83
+[01-Jun-2020 00:25:52 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/analeerose/public_html/much-todo/controllers/user.php on line 219
+[01-Jun-2020 06:38:30 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/analeerose/public_html/much-todo/controllers/user.php on line 219
+[02-Jun-2020 21:43:55 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/analeerose/public_html/much-todo/controllers/user.php on line 219
+[01-Jul-2020 12:01:29 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/analeerose/public_html/much-todo/controllers/user.php on line 219
+[01-Jul-2020 12:01:29 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/analeerose/public_html/much-todo/controllers/user.php on line 219
+[01-Jul-2020 12:01:30 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/analeerose/public_html/much-todo/controllers/user.php on line 219
+[02-Jul-2020 13:24:30 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:09:36 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:22:00 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 21:24:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'generalObject' not found in /home/analeerose/public_html/much-todo/models/user_m.php:5
+Stack trace:
+#0 /home/analeerose/public_html/much-todo/controllers/user.php(18): require()
+#1 /home/analeerose/public_html/much-todo/controllers/user.php(8): createUser()
+#2 {main}
+  thrown in /home/analeerose/public_html/much-todo/models/user_m.php on line 5
+[06-Jul-2020 20:26:10 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:26:14 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:26:16 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:40:43 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:40:44 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:40:45 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:51:42 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:52:59 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54
+[06-Jul-2020 20:53:03 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/analeerose/public_html/much-todo/models/user_m.php on line 54

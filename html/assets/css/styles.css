@@ -1,0 +1,35 @@
+.mark-task-btn {
+    padding: 0 11px;
+    height: 0;
+    width: 0;
+}
+
+.required {opacity: .85;}
+
+.form-error-generated-text {text-transform:capitalize;}
+
+[data-notice-remove], 
+[data-delete], 
+.cursor-p {
+	cursor: pointer;
+}
+
+.task_container_aqua, .task_container:hover {background: rgb(23, 162, 184, .13);}
+.all_tasks_container:nth-child(odd) {background: rgb(23, 162, 184, .085);}
+
+.mark-task-btn {border-width: 2px !important;}
+.mark-task-btn:hover {background-color: #17a2b8 !important;}
+.mark-task-btn.complete:hover {background-color: #fff !important;}
+.past-due .mark-task-btn:hover {background-color: #dc3545 !important;}
+.due-soon .mark-task-btn:hover {background-color: #ffc107 !important;}
+
+.past-due {background-color:rgba(220, 53, 69, .15)}
+.past-due:hover {background-color:rgba(220, 53, 69, .3)}
+.due-soon {background-color:rgba(255, 193, 7, .15);}
+.due-soon:hover {background-color:rgba(255, 193, 7, .3);}
+.due-soon a {color:#dba005 !important;}
+
+.logo {
+	margin-right: 8px;
+	max-width: 25px;
+}
